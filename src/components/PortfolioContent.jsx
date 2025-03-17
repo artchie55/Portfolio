@@ -24,7 +24,7 @@ const PortfolioContent = () => {
                 <div className=' font-extrabold text-[27px] text-[#2471c9]'>COZY GETAWAYS 🏝️</div>
                 <div className='text-[20px]'>Cozy Getaways is a Front-End Design for a Website that offers Customers a Vacation Rentals, Homes, Experiences. Whether you're searching for a cozy cabin, a beachfront villa, or a city apartment, we connect travelers with trusted hosts to create unforgettable stays. Fully Responsive. </div>
                 <div className='flex justify-center items-center mt-[20px]'>
-                    <a href='' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110 mr-[20px]'>Source Code<FaGithub size={30} className='ml-[10px]' /></a>
+                    <a href='https://github.com/artchie55/Portfolio-Content/tree/main/CozyGetaways' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110 mr-[20px]'>Source Code<FaGithub size={30} className='ml-[10px]' /></a>
                     <a href='https://cozy-getaways-artchie.netlify.app/' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110'>Live Project <TfiNewWindow size={28} className='ml-[10px]' /></a>
                 </div>
             </right>
@@ -38,7 +38,7 @@ const PortfolioContent = () => {
                 <div className=' font-extrabold text-[27px] text-[#2471c9]'>PARTNERS DAO 🧩</div>
                 <div className='text-[20px]'>A Crypto Project on Twitter I decided to make A Website For.</div>
                 <div className='flex justify-center items-center mt-[20px]'>
-                    <a href='' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110 mr-[20px]'>Source Code<FaGithub size={30} className='ml-[10px]' /></a>
+                    <a href='https://github.com/artchie55/Portfolio-Content/tree/main/PartnersDao' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110 mr-[20px]'>Source Code<FaGithub size={30} className='ml-[10px]' /></a>
                     <a href='https://partners-dao.netlify.app/' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110'>Live Project <TfiNewWindow size={28} className='ml-[10px]' /></a>
                 </div>
             </right>
@@ -54,7 +54,7 @@ const PortfolioContent = () => {
                 <div className=' font-extrabold text-[27px] text-[#2471c9]'>JOLLIBEE CLONE 🏪</div>
                 <div className='text-[20px]'>I successfully cloned the Jollibee website, replicating its layout and design using HTML and CSS while ensuring responsiveness and cross-browser compatibility to deliver a seamless user experience..</div>
                 <div className='flex justify-center items-center mt-[20px]'>
-                    <a href='' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110 mr-[20px]'>Source Code<FaGithub size={30} className='ml-[10px]' /></a>
+                    <a href='https://github.com/artchie55/Portfolio-Content/tree/main/Jollibee' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110 mr-[20px]'>Source Code<FaGithub size={30} className='ml-[10px]' /></a>
                     <a href='https://jollibee-clone-artchie.netlify.app/' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110'>Live Project <TfiNewWindow size={28} className='ml-[10px]' /></a>
                 </div>
             </right>
@@ -68,7 +68,7 @@ const PortfolioContent = () => {
                 <div className=' font-extrabold text-[27px] text-[#2471c9]'>CRISPY KING CLONE 🍗 </div>
                 <div className='text-[20px]'>A Crispy King Clone Website I made to hone my skills in developing Front End Web Apps. Coded Using mainly HTML, CSS and a little bit of Javascript. Fully Responsive.</div>
                 <div className='flex justify-center items-center mt-[20px]'>
-                    <a href='' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110 mr-[20px]'>Source Code<FaGithub size={30} className='ml-[10px]' /></a>
+                    <a href='https://github.com/artchie55/Portfolio-Content/tree/main/CrispyKing' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110 mr-[20px]'>Source Code<FaGithub size={30} className='ml-[10px]' /></a>
                     <a href='https://crispyking-clone-artchie.netlify.app/' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110'>Live Project <TfiNewWindow size={28} className='ml-[10px]' /></a>
                 </div>
             </right>
@@ -92,7 +92,7 @@ const PortfolioContent = () => {
                 <div className=' font-extrabold text-[20px]'>COZY GETAWAYS 🏝️</div>
                 <div className='text-[18px]'>Cozy Getaways is a Front-End Design for a Website that offers Customers a Vacation Rentals, Homes, Experiences. Whether you're searching for a cozy cabin, a beachfront villa, or a city apartment, we connect travelers with trusted hosts to create unforgettable stays. Fully Responsive.</div>
                 <div className='flex justify-center items-center mt-[20px]'>
-                    <a href='' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110 mr-[20px]'>Source Code<FaGithub size={30} className='ml-[10px]' /></a>
+                    <a href='https://github.com/artchie55/Portfolio-Content/tree/main/CozyGetaways' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110 mr-[20px]'>Source Code<FaGithub size={30} className='ml-[10px]' /></a>
                     <a href='https://cozy-getaways-artchie.netlify.app/' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110'>Live Project <TfiNewWindow size={28} className='ml-[10px]' /></a>
                 </div>
             </right>
@@ -106,7 +106,7 @@ const PortfolioContent = () => {
                 <div className=' font-extrabold text-[20px]'>PARTNERS DAO 🧩</div>
                 <div className='text-[18px]'>A Crypto Project on Twitter I decided to make A Website For.</div>
                 <div className='flex justify-center items-center mt-[20px]'>
-                    <a href='' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110 mr-[20px]'>Source Code<FaGithub size={30} className='ml-[10px]' /></a>
+                    <a href='https://github.com/artchie55/Portfolio-Content/tree/main/PartnersDao' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110 mr-[20px]'>Source Code<FaGithub size={30} className='ml-[10px]' /></a>
                     <a href='https://partners-dao.netlify.app/' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110'>Live Project <TfiNewWindow size={28} className='ml-[10px]' /></a>
                 </div>
             </right>
@@ -120,7 +120,7 @@ const PortfolioContent = () => {
                 <div className=' font-extrabold text-[20px]'>JOLLIBEE CLONE 🏪</div>
                 <div className='text-[18px]'>I successfully cloned the Jollibee website, replicating its layout and design using HTML and CSS while ensuring responsiveness and cross-browser compatibility to deliver a seamless user experience.</div>
                 <div className='flex justify-center items-center mt-[20px]'>
-                    <a href='' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110 mr-[20px]'>Source Code<FaGithub size={30} className='ml-[10px]' /></a>
+                    <a href='https://github.com/artchie55/Portfolio-Content/tree/main/Jollibee' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110 mr-[20px]'>Source Code<FaGithub size={30} className='ml-[10px]' /></a>
                     <a href='https://jollibee-clone-artchie.netlify.app/' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110'>Live Project <TfiNewWindow size={28} className='ml-[10px]' /></a>
                 </div>
             </right>
@@ -134,7 +134,7 @@ const PortfolioContent = () => {
                 <div className=' font-extrabold text-[20px]'>CRISPY KING CLONE 🍗</div>
                 <div className='text-[18px]'>A Crispy King Clone Website I made to hone my skills in developing Front End Web Apps. Coded Using mainly HTML, CSS and a little bit of Javascript. Fully Responsive.</div>
                 <div className='flex justify-center items-center mt-[20px]'>
-                    <a href='' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110 mr-[20px]'>Source Code<FaGithub size={30} className='ml-[10px]' /></a>
+                    <a href='https://github.com/artchie55/Portfolio-Content/tree/main/CrispyKing' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110 mr-[20px]'>Source Code<FaGithub size={30} className='ml-[10px]' /></a>
                     <a href='https://crispyking-clone-artchie.netlify.app/' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110'>Live Project <TfiNewWindow size={28} className='ml-[10px]' /></a>
                 </div>
             </right>
@@ -158,7 +158,7 @@ const PortfolioContent = () => {
                 <div className=' font-extrabold text-[20px]'>COZY GETAWAYS 🏝️</div>
                 <div className='text-[18px]'>Cozy Getaways is a Front-End Design for a Website that offers Customers a Vacation Rentals, Homes, Experiences. Whether you're searching for a cozy cabin, a beachfront villa, or a city apartment, we connect travelers with trusted hosts to create unforgettable stays. Fully Responsive.</div>
                 <div className='flex justify-center items-center mt-[20px]'>
-                    <a href='' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110 mr-[20px]'>Source Code<FaGithub size={30} className='ml-[10px]' /></a>
+                    <a href='https://github.com/artchie55/Portfolio-Content/tree/main/CozyGetaways' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110 mr-[20px]'>Source Code<FaGithub size={30} className='ml-[10px]' /></a>
                     <a href='https://cozy-getaways-artchie.netlify.app/' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110'>Live Project <TfiNewWindow size={28} className='ml-[10px]' /></a>
                 </div>
             </right>
@@ -172,7 +172,7 @@ const PortfolioContent = () => {
                 <div className=' font-extrabold text-[20px]'>PARTNERS DAO 🧩</div>
                 <div className='text-[18px]'>A Crypto Project on Twitter I decided to make A Website For.</div>
                 <div className='flex justify-center items-center mt-[20px]'>
-                    <a href='' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110 mr-[20px]'>Source Code<FaGithub size={30} className='ml-[10px]' /></a>
+                    <a href='https://github.com/artchie55/Portfolio-Content/tree/main/PartnersDao' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110 mr-[20px]'>Source Code<FaGithub size={30} className='ml-[10px]' /></a>
                     <a href='https://partners-dao.netlify.app/' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110'>Live Project <TfiNewWindow size={28} className='ml-[10px]' /></a>
                 </div>
             </right>
@@ -186,7 +186,7 @@ const PortfolioContent = () => {
                 <div className=' font-extrabold text-[20px]'>JOLLIBEE CLONE 🏪</div>
                 <div className='text-[18px]'>I successfully cloned the Jollibee website, replicating its layout and design using HTML and CSS while ensuring responsiveness and cross-browser compatibility to deliver a seamless user experience.</div>
                 <div className='flex justify-center items-center mt-[20px]'>
-                    <a href='' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110 mr-[20px]'>Source Code<FaGithub size={30} className='ml-[10px]' /></a>
+                    <a href='https://github.com/artchie55/Portfolio-Content/tree/main/Jollibee' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110 mr-[20px]'>Source Code<FaGithub size={30} className='ml-[10px]' /></a>
                     <a href='https://jollibee-clone-artchie.netlify.app/' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110'>Live Project <TfiNewWindow size={28} className='ml-[10px]' /></a>
                 </div>
             </right>
@@ -200,7 +200,7 @@ const PortfolioContent = () => {
                 <div className=' font-extrabold text-[20px]'>CRISPY KING CLONE 🍗</div>
                 <div className='text-[18px]'>A Crispy King Clone Website I made to hone my skills in developing Front End Web Apps. Coded Using mainly HTML, CSS and a little bit of Javascript. Fully Responsive.</div>
                 <div className='flex justify-center items-center mt-[20px]'>
-                    <a href='' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110 mr-[20px]'>Source Code<FaGithub size={30} className='ml-[10px]' /></a>
+                    <a href='https://github.com/artchie55/Portfolio-Content/tree/main/CrispyKing' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110 mr-[20px]'>Source Code<FaGithub size={30} className='ml-[10px]' /></a>
                     <a href='https://crispyking-clone-artchie.netlify.app/' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110'>Live Project <TfiNewWindow size={28} className='ml-[10px]' /></a>
                 </div>
             </right>
