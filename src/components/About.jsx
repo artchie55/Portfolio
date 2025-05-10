@@ -13,7 +13,7 @@ const About = () => {
         <right data-aos="fade-right" data-aos-duration="800" className=' max-w-[495px]'>
           <div className=' text-[#2471c9] font-extrabold text-[20px]'>ABOUT ME</div>
           <div className=' font-extrabold text-[28px] max-w-[450px] py-[15px] leading-[30px]'> A Front-end Developer based in Philippines 🌎</div>
-          <div className=' text-[23px]'>As a passionate and detail-oriented Junior Front-End Web Developer, I strive to create seamless, responsive, and visually engaging web experiences. With a strong foundation in HTML, CSS, and JavaScript, I am committed to building intuitive and dynamic applications that enhance user interaction and accessibility.</div>
+          <div className=' text-[23px]'>As a passionate and detail-oriented Junior Front-End Web Developer, I specialize in crafting seamless, responsive, and visually engaging web experiences. With a solid foundation in HTML, CSS, and JavaScript, I focus on building intuitive and dynamic interfaces that prioritize user interaction and accessibility. Additionally, I bring backend development skills using PHP and MySQL, enabling me to create full-stack applications with functionality and data management.</div>
         </right>
       </div>
     </div>
@@ -30,7 +30,7 @@ const About = () => {
                 <div className=' text-[#2471c9] font-extrabold text-[20px] capitalize'>ABOUT ME</div>
                 <div className=' font-extrabold text-[28px] max-w-[450px] pt-[15px] leading-[30px] break-normal'> A Front-end Developer based</div>
                 <div className=' font-extrabold text-[28px] max-w-[450px] pb-[15px] leading-[30px]'>in Philippines 🌎</div>
-                <div className=' text-[20px]'>As a passionate and detail-oriented Junior Front-End Web Developer, I strive to create seamless, responsive, and visually engaging web experiences. With a strong foundation in HTML, CSS, and JavaScript, I am committed to building intuitive and dynamic applications that enhance user interaction and accessibility.</div>
+                <div className=' text-[20px]'>As a passionate and detail-oriented Junior Front-End Web Developer, I specialize in crafting seamless, responsive, and visually engaging web experiences. With a solid foundation in HTML, CSS, and JavaScript, I focus on building intuitive and dynamic interfaces that prioritize user interaction and accessibility. Additionally, I bring backend development skills using PHP and MySQL, enabling me to create full-stack applications with functionality and data management.</div>
             </right>
         </div>
     </div>
@@ -47,7 +47,7 @@ const About = () => {
                 <div className=' text-[#2471c9] font-extrabold text-[20px] capitalize'>ABOUT ME</div>
                 <div className=' font-extrabold text-[28px] max-w-[450px] pt-[15px] leading-[30px] break-normal'> A Front-end Developer based</div>
                 <div className=' font-extrabold text-[28px] max-w-[450px] pb-[15px] leading-[30px]'>in Philippines 🌎</div>
-                <div className=' text-[20px]'>As a passionate and detail-oriented Junior Front-End Web Developer, I strive to create seamless, responsive, and visually engaging web experiences. With a strong foundation in HTML, CSS, and JavaScript, I am committed to building intuitive and dynamic applications that enhance user interaction and accessibility.</div>
+                <div className=' text-[20px]'>As a passionate and detail-oriented Junior Front-End Web Developer, I specialize in crafting seamless, responsive, and visually engaging web experiences. With a solid foundation in HTML, CSS, and JavaScript, I focus on building intuitive and dynamic interfaces that prioritize user interaction and accessibility. Additionally, I bring backend development skills using PHP and MySQL, enabling me to create full-stack applications with functionality and data management.</div>
             </right>
         </div>
     </div>

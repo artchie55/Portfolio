@@ -4,6 +4,7 @@ import crispyking from '../images/crispyking.png';
 import partnersdao from '../images/partnersdaopic.png';
 import CozyGetaways from '../images/CozyGetaways.png';
 import realestate from '../images/realestate.png';
+import PriceTracker from '../images/PriceTracker.png'
 import { TfiNewWindow } from "react-icons/tfi";
 import { FaGithub } from "react-icons/fa";
 
@@ -15,6 +16,22 @@ const PortfolioContent = () => {
         <div className='text-center'>
             <div data-aos="fade-right" data-aos-duration="500" className=' text-[#2471c9] font-extrabold text-[25px]'>PORTFOLIO</div>
             <div data-aos="fade-right" data-aos-duration="2000" className='text-[25px] pb-[75px] font-bold'>Showcasing my front-end projects 📒</div>
+        </div>
+        
+        <div className='flex justify-center items-center gap-x-[60px] mr-[50px] pb-[80px] '>
+            
+            <a href='https://artchie-price-tracker.netlify.app/' target='_blank' id='projectshadow' data-aos="fade-right" data-aos-duration="1000" className='h-[360px] overflow-hidden hover:scale-110'>
+                    <img className='max-w-[550px] hover:translate-y-[-20%] transition ease-in-out duration-[2s] cursor-pointer' src={PriceTracker} />
+            </a>
+            
+            <right data-aos="fade-left" data-aos-duration="1000" className=' max-w-[400px] text-center mt-[-10px]'>
+                <div className=' font-extrabold text-[27px] text-[#2471c9]'>PRICETRACKER 📈</div>    
+                <div className='text-[20px]'>A Website for Tracking LIVE Crypto Prices Using Coingecko API to fetch data every 60 seconds. Built using React, Tailwind CSS, and PHP. Integrated a Simple Login & Signup Backend in mysql. Go to Github README for Logging in Guide.</div>
+                <div className='flex justify-center items-center mt-[20px]'>
+                    <a href='https://github.com/artchie55/Portfolio-Content/tree/main/PriceTracker' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110 transition duration-200 mr-[20px]'>Source Code<FaGithub size={30} className='ml-[10px]' /></a>
+                    <a href='https://artchie-price-tracker.netlify.app/' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110 transition duration-200'>Live Project <TfiNewWindow size={28} className='ml-[10px]' /></a>
+                </div>
+            </right>
         </div>
         
         <div className='flex justify-center items-center gap-x-[60px] mr-[50px] pb-[80px] '>
@@ -101,7 +118,20 @@ const PortfolioContent = () => {
             <div className='text-[25px] font-bold'>Showcasing my front-end projects 📒</div>
         </div>
         
-
+        <div className='flex flex-col justify-center items-center gap-x-[60px] mt-[65px] mr-[50px] pb-[100px]'>
+            <a href='https://artchie-price-tracker.netlify.app/' target='_blank' id='projectshadow' className='h-[360px] overflow-hidden hover:scale-110'>
+                    <img className='max-w-[550px] hover:translate-y-[-20%] transition ease-in-out duration-[2s] cursor-pointer' src={PriceTracker} />
+            </a>
+            <right className=' max-w-[400px] text-center pt-[40px]'>
+                <div className=' font-extrabold text-[20px]'>PRICETRACKER 📈</div>
+                <div className='text-[18px]'>A Website for Tracking LIVE Crypto Prices Using Coingecko API to fetch data every 60 seconds. Built using React, Tailwind CSS, and PHP. Integrated a Simple Login & Signup Backend in mysql. Go to Github README for Logging in Guide.</div>
+                <div className='flex justify-center items-center mt-[20px]'>
+                    <a href='https://github.com/artchie55/Portfolio-Content/tree/main/PriceTracker' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110 transition duration-200 mr-[20px]'>Source Code<FaGithub size={30} className='ml-[10px]' /></a>
+                    <a href='https://artchie-price-tracker.netlify.app/' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110 transition duration-200'>Live Project <TfiNewWindow size={28} className='ml-[10px]' /></a>
+                </div>
+            </right>
+        </div>
+        
         <div className='flex flex-col justify-center items-center gap-x-[60px] mt-[65px] mr-[50px] pb-[100px]'>
             <a href='https://real-estate-revamp.netlify.app/' target='_blank' id='projectshadow' className='h-[360px] overflow-hidden hover:scale-110'>
                     <img className='max-w-[550px] hover:translate-y-[-83%] transition ease-in-out duration-[5s] cursor-pointer' src={realestate} />
@@ -182,6 +212,19 @@ const PortfolioContent = () => {
             <div className='text-[25px] pb-[50px] font-bold'>Showcasing my front-end projects 📒</div>
         </div>
         
+        <div className='flex flex-col justify-center items-center gap-x-[60px]  pb-[230px]'>
+            <a href='https://artchie-price-tracker.netlify.app/' target='_blank' id='projectshadow' className='h-[360px] overflow-hidden hover:scale-105'>
+                    <img className='max-w-[510px] w-full hover:translate-y-[-20%] transition ease-in-out duration-[2s] cursor-pointer' src={PriceTracker} />
+            </a>
+            <right className=' max-w-[400px] text-center pt-[40px]'>
+                <div className=' font-extrabold text-[20px]'>PRICETRACKER 📈</div>
+                <div className='text-[18px]'>A Website for Tracking LIVE Crypto Prices Using Coingecko API to fetch data every 60 seconds. Built using React, Tailwind CSS, and PHP. Integrated a Simple Login & Signup Backend in mysql. Go to Github README for Logging in Guide.</div>
+                <div className='flex justify-center items-center mt-[20px]'>
+                    <a href='https://github.com/artchie55/Portfolio-Content/tree/main/PriceTracker' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110 transition duration-200 mr-[20px]'>Source Code<FaGithub size={30} className='ml-[10px]' /></a>
+                    <a href='https://artchie-price-tracker.netlify.app/' target='_blank' className='cursor-pointer p-[10px] bg-[#7f94db9a] rounded-[20px] flex items-center text-[20px] hover:scale-110 transition duration-200 '>Live Project <TfiNewWindow size={28} className='ml-[10px]' /></a>
+                </div>
+            </right>
+        </div>
 
         <div className='flex flex-col justify-center items-center gap-x-[60px]  pb-[230px]'>
             <a href='https://real-estate-revamp.netlify.app/' target='_blank' id='projectshadow' className='h-[360px] overflow-hidden hover:scale-105'>
