@@ -8,12 +8,13 @@ const About = () => {
     <div class='Container' className=' pt-[80px] pb-[250px] max-lg:hidden'>
       <div class='aboutContent' className=' flex justify-center items-center gap-[75px]'>
         <left data-aos="fade-right" data-aos-duration="2000" className='relative'>
-          <img className='rounded-[20px] h-[400px] w-[450px]' src={ManTyping} />
+          <img className='rounded-[20px] h-[500px] w-[550px]' src={ManTyping} />
         </left>
         <right data-aos="fade-right" data-aos-duration="800" className=' max-w-[495px]'>
           <div className=' text-[#2471c9] font-extrabold text-[20px]'>ABOUT ME</div>
-          <div className=' font-extrabold text-[28px] max-w-[450px] py-[15px] leading-[30px]'> A Front-end Developer based in Philippines 🌎</div>
-          <div className=' text-[23px]'>As a passionate and detail-oriented Junior Front-End Web Developer, I specialize in crafting seamless, responsive, and visually engaging web experiences. With a solid foundation in HTML, CSS, and JavaScript, I focus on building intuitive and dynamic interfaces that prioritize user interaction and accessibility. Additionally, I bring backend development skills using PHP and MySQL, enabling me to create full-stack applications with functionality and data management.</div>
+          <div className=' font-extrabold text-[28px] max-w-[450px] py-[15px] leading-[30px]'> A Junior Full-Stack Web Developer based in the Philippines  🌎</div>
+          <div className=' text-[23px]'>With a strong background in HTML, CSS, and JavaScript, I craft responsive and interactive front-end experiences using tools like React and Tailwind CSS. On the back end, I work with Node.js, MongoDB, Express, PHP, and MySQL, enabling me to develop fully functional web apps with secure data handling and dynamic content.
+                                        From building sleek UIs to integrating APIs and authentication systems using JWT, bcrypt, and Axios, I enjoy bringing ideas to life.</div>
         </right>
       </div>
     </div>
@@ -28,9 +29,10 @@ const About = () => {
             </left>
             <right className=' max-w-[495px] flex flex-col items-center text-center'>
                 <div className=' text-[#2471c9] font-extrabold text-[20px] capitalize'>ABOUT ME</div>
-                <div className=' font-extrabold text-[28px] max-w-[450px] pt-[15px] leading-[30px] break-normal'> A Front-end Developer based</div>
-                <div className=' font-extrabold text-[28px] max-w-[450px] pb-[15px] leading-[30px]'>in Philippines 🌎</div>
-                <div className=' text-[20px]'>As a passionate and detail-oriented Junior Front-End Web Developer, I specialize in crafting seamless, responsive, and visually engaging web experiences. With a solid foundation in HTML, CSS, and JavaScript, I focus on building intuitive and dynamic interfaces that prioritize user interaction and accessibility. Additionally, I bring backend development skills using PHP and MySQL, enabling me to create full-stack applications with functionality and data management.</div>
+                <div className=' font-extrabold text-[28px] max-w-[400px] pt-[15px] leading-[30px] break-normal'> A Junior Full-Stack Web Developer based</div>
+                <div className=' font-extrabold text-[28px] max-w-[450px] pb-[15px] leading-[35px]'>in Philippines 🌎</div>
+                <div className=' text-[20px]'>With a strong background in HTML, CSS, and JavaScript, I craft responsive and interactive front-end experiences using tools like React and Tailwind CSS. On the back end, I work with Node.js, MongoDB, Express, PHP, and MySQL, enabling me to develop fully functional web apps with secure data handling and dynamic content.
+                                        From building sleek UIs to integrating APIs and authentication systems using JWT, bcrypt, and Axios, I enjoy bringing ideas to life.</div>
             </right>
         </div>
     </div>
@@ -45,9 +47,10 @@ const About = () => {
             </left>
             <right className=' max-w-[495px] flex flex-col items-center text-center'>
                 <div className=' text-[#2471c9] font-extrabold text-[20px] capitalize'>ABOUT ME</div>
-                <div className=' font-extrabold text-[28px] max-w-[450px] pt-[15px] leading-[30px] break-normal'> A Front-end Developer based</div>
-                <div className=' font-extrabold text-[28px] max-w-[450px] pb-[15px] leading-[30px]'>in Philippines 🌎</div>
-                <div className=' text-[20px]'>As a passionate and detail-oriented Junior Front-End Web Developer, I specialize in crafting seamless, responsive, and visually engaging web experiences. With a solid foundation in HTML, CSS, and JavaScript, I focus on building intuitive and dynamic interfaces that prioritize user interaction and accessibility. Additionally, I bring backend development skills using PHP and MySQL, enabling me to create full-stack applications with functionality and data management.</div>
+                <div className=' font-extrabold text-[28px] max-w-[400px] pt-[15px] leading-[35px] break-normal'> A Junior Full-Stack Web Developer based</div>
+                <div className=' font-extrabold text-[28px] max-w-[450px] pb-[15px] leading-[35px]'>in Philippines 🌎</div>
+                <div className=' text-[20px]'>With a strong background in HTML, CSS, and JavaScript, I craft responsive and interactive front-end experiences using tools like React and Tailwind CSS. On the back end, I work with Node.js, MongoDB, Express, PHP, and MySQL, enabling me to develop fully functional web apps with secure data handling and dynamic content.
+                                        From building sleek UIs to integrating APIs and authentication systems using JWT, bcrypt, and Axios, I enjoy bringing ideas to life.</div>
             </right>
         </div>
     </div>
