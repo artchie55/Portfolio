@@ -96,7 +96,7 @@ const FullStack1 = () => {
             To enhance the experience, Lenis is implemented for smooth scroll animations, giving the interface a refined, luxurious feel. The site supports role-based access, distinguishing between customers and administrators. Admins have full control over the catalog, with the ability to add or remove products directly from the admin dashboard.
             Authentication is powered by JSON Web Tokens (JWT) and bcrypt, ensuring robust security for user accounts. API communication is handled using Axios, allowing efficient and clean interaction with the backend services..</p>
             <p className="text-gray-300 text-sm text-center mt-[10px] leading-[13px] max-lg:text-[11px]">admin role→ admin@gmail.com:admin <br/> customer role→ user@gmail.com:user</p>
-             <p className="text-gray-300 text-sm text-center mt-[10px] leading-[13px] max-lg:text-[11px]">(wait around 1minute, let free hosting database load) </p>
+             
         <div className='flex justify-center items-center mt-[15px] max-lg:scale-75'>
             <a href='https://github.com/artchie55/E-Commerce-for-Watches' target='_blank' className='cursor-pointer p-[8px] bg-[#ffffff] rounded-[20px] flex items-center text-[18px] hover:scale-110 transition duration-300 mr-[20px]'>
             Source Code <FaGithub size={26} className='ml-[10px]' />
